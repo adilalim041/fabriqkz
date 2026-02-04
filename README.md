@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# FABRIQ site
 
 ## Local run
@@ -21,3 +22,6 @@ npx serve . -l 4173
   - `assets/css/styles.css`
   - `../assets/js/script.js`
   - `../../assets/img/logo.png`
+=======
+# fabriqkz
+>>>>>>> bf9c9f2dcd8c74de72416c55979ff55c3df84990
