@@ -1,0 +1,166 @@
+﻿{
+    "zov":  [
+                {
+                    "page":  "styles/zov/veskona.html",
+                    "slug":  "veskona",
+                    "description":  "Современная композиция с четкой геометрией.",
+                    "image":  "assets/img/styles/zov/veskona-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Veskona"
+                },
+                {
+                    "page":  "styles/zov/orlean.html",
+                    "slug":  "orlean",
+                    "description":  "Сбалансированный минимализм и функциональность.",
+                    "image":  "assets/img/styles/zov/orlean-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Orlean"
+                },
+                {
+                    "page":  "styles/zov/pemont.html",
+                    "slug":  "pemont",
+                    "description":  "Лаконичные фасады и акцент на практичность.",
+                    "image":  "assets/img/styles/zov/pemont-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Pemont"
+                },
+                {
+                    "page":  "styles/zov/laura.html",
+                    "slug":  "laura",
+                    "description":  "Светлая композиция для современных пространств.",
+                    "image":  "assets/img/styles/zov/laura-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Laura"
+                },
+                {
+                    "page":  "styles/zov/nois.html",
+                    "slug":  "nois",
+                    "description":  "Графичный стиль для городских интерьеров.",
+                    "image":  "assets/img/styles/zov/nois-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Nois"
+                },
+                {
+                    "page":  "styles/zov/norvud.html",
+                    "slug":  "norvud",
+                    "description":  "Теплая древесная палитра и мягкая архитектура.",
+                    "image":  "assets/img/styles/zov/norvud-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Norvud"
+                },
+                {
+                    "page":  "styles/zov/salviya.html",
+                    "slug":  "salviya",
+                    "description":  "Нейтральная гамма и спокойная выразительность.",
+                    "image":  "assets/img/styles/zov/salviya-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Salviya"
+                },
+                {
+                    "page":  "styles/zov/merinos.html",
+                    "slug":  "merinos",
+                    "description":  "Премиальный характер с выразительными деталями.",
+                    "image":  "assets/img/styles/zov/merinos-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Merinos"
+                },
+                {
+                    "page":  "styles/zov/safari.html",
+                    "slug":  "safari",
+                    "description":  "Контраст фактур и удобная эргономика.",
+                    "image":  "assets/img/styles/zov/safari-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Safari"
+                },
+                {
+                    "page":  "styles/zov/miro.html",
+                    "slug":  "miro",
+                    "description":  "Современный формат с чистыми плоскостями.",
+                    "image":  "assets/img/styles/zov/miro-real.webp",
+                    "sourceUrl":  "https://zovofficial.com/kuhni-ru/",
+                    "title":  "Miro"
+                }
+            ],
+    "geosideal":  [
+                      {
+                          "page":  "styles/geosideal/arli.html",
+                          "slug":  "arli",
+                          "description":  "Легкая классика с современным прочтением.",
+                          "image":  "assets/img/styles/geosideal/arli-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Arli"
+                      },
+                      {
+                          "page":  "styles/geosideal/astra.html",
+                          "slug":  "astra",
+                          "description":  "Премиальная композиция со строгими формами.",
+                          "image":  "assets/img/styles/geosideal/astra-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Astra"
+                      },
+                      {
+                          "page":  "styles/geosideal/damiana.html",
+                          "slug":  "damiana",
+                          "description":  "Выразительные фасады и теплые текстуры.",
+                          "image":  "assets/img/styles/geosideal/damiana-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Damiana"
+                      },
+                      {
+                          "page":  "styles/geosideal/jasper.html",
+                          "slug":  "jasper",
+                          "description":  "Контрастная палитра и современный ритм.",
+                          "image":  "assets/img/styles/geosideal/jasper-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Jasper"
+                      },
+                      {
+                          "page":  "styles/geosideal/kalipso.html",
+                          "slug":  "kalipso",
+                          "description":  "Акцент на глубину цвета и фактуры.",
+                          "image":  "assets/img/styles/geosideal/kalipso-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Kalipso"
+                      },
+                      {
+                          "page":  "styles/geosideal/kapri.html",
+                          "slug":  "kapri",
+                          "description":  "Элегантный стиль для светлых интерьеров.",
+                          "image":  "assets/img/styles/geosideal/kapri-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Kapri"
+                      },
+                      {
+                          "page":  "styles/geosideal/kotra.html",
+                          "slug":  "kotra",
+                          "description":  "Глубокие фактуры и архитектурная подача.",
+                          "image":  "assets/img/styles/geosideal/kotra-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Kotra"
+                      },
+                      {
+                          "page":  "styles/geosideal/lianga.html",
+                          "slug":  "lianga",
+                          "description":  "Премиум-пластика форм и аккуратные линии.",
+                          "image":  "assets/img/styles/geosideal/lianga-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Lianga"
+                      },
+                      {
+                          "page":  "styles/geosideal/marinara.html",
+                          "slug":  "marinara",
+                          "description":  "Композиция с выразительным визуальным балансом.",
+                          "image":  "assets/img/styles/geosideal/marinara-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Marinara"
+                      },
+                      {
+                          "page":  "styles/geosideal/natali.html",
+                          "slug":  "natali",
+                          "description":  "Спокойная классика для актуальных интерьеров.",
+                          "image":  "assets/img/styles/geosideal/natali-real.jpg",
+                          "sourceUrl":  "https://geosideal.ru/kuhni/",
+                          "title":  "Natali"
+                      }
+                  ]
+}

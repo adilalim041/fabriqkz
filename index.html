@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FABRIQ — Премиальная фабричная мебель</title>
+  <meta name="description" content="Европейская фабрика по цене местных. №1 качество мебели в Казахстане." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header header-light" id="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><img id="site-logo" src="assets/img/black_logo.png" data-logo-light="assets/img/white_logo.png" data-logo-dark="assets/img/black_logo.png" alt="FABRIQ" /></a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Открыть меню"><img src="assets/icons/menu.svg" alt="" /></button>
+      <nav class="main-nav" id="main-nav">
+        <a href="about.html">О нас</a>
+        <a href="production.html">Производство</a>
+        <a href="styles.html">Стили</a>
+        <a href="tracker.html">Трекер</a>
+        <a href="reviews.html">Отзывы</a>
+        <a href="contacts.html">Контакты</a>
+      </nav>
+      <a class="btn btn-primary small" href="contacts.html#consultation">Записаться на консультацию</a>
+    </div>
+  </header>
+
+  <section class="hero" id="hero" data-surface="dark">
+    <video class="hero-video" id="hero-video" autoplay muted defaultMuted playsinline preload="auto">
+      <source src="bg_main.mp4" type="video/mp4" />
+    </video>
+    <div class="hero-overlay"></div>
+    <div class="container hero-inner video-story reveal">
+      <h1 class="hero-title-lit logo-font">Европейская фабрика по цене местных</h1>
+      <p class="hero-subtitle hero-subtitle-lit">№1 качество мебели в Казахстане.<br />ВПЕРВЫЕ отслеживайте свой заказ.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="contacts.html#consultation">Записаться на консультацию</a>
+        <a class="btn btn-outline" href="production.html">Перейти в производство</a>
+      </div>
+    </div>
+    <a class="hero-bottom hero-bottom-pill" href="#tracking-first">НО ЭТО НЕ САМОЕ ГЛАВНОЕ <span>↓</span></a>
+  </section>
+
+  <main>
+    <section class="section tracker-teaser" id="tracking-first" data-surface="dark">
+      <div class="container teaser-layout">
+        <div class="teaser-copy reveal">
+          <h2 class="caps-title"><span class="gold-gradient">МЫ ПЕРВЫЕ</span> КТО ПОЗВОЛЯЕТ ВАМ ОТСЛЕЖИВАТЬ ПРОЦЕСС ЗАКАЗА В РЕАЛЬНОМ ВРЕМЕНИ</h2>
+          <p>От проекта до установки: каждый статус, дата и следующий шаг видны клиенту без ожидания звонков.</p>
+          <a class="btn btn-primary" href="tracker.html">Подробнее</a>
+        </div>
+        <div class="tracker-widget reveal">
+          <div class="tracker-head"><span>Заказ #FQ-2078</span><strong>67%</strong></div>
+          <div class="tracker-progress"><span></span></div>
+          <ul>
+            <li class="done">Дизайн согласован</li>
+            <li class="done">Производство запущено</li>
+            <li class="active">Логистика и доставка</li>
+            <li>Монтаж и приемка</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section about" data-surface="light">
+      <div class="container">
+        <div class="section-heading reveal">
+          <h2>Почему <span class="logo-font">FABRIQ</span> выбирают как №1</h2>
+          <p>Посмотрите ключевые причины доверия к нам в реальных процессах работы.</p>
+        </div>
+        <div class="utp-grid">
+          <a class="utp-item link-card reveal" href="tracker.html">
+            <img src="assets/img/styles/geosideal/astra-real.jpg" alt="Трекер FABRIQ" />
+            <h3>Прозрачное отслеживание</h3>
+            <p>Статусы, сроки и этапы заказа доступны клиенту в реальном времени.</p>
+          </a>
+          <a class="utp-item link-card reveal" href="production.html">
+            <img src="assets/img/factories/zov-real-2.webp" alt="Производство FABRIQ" />
+            <h3>Контролируемое производство</h3>
+            <p>Выбор фабрики, стандарты качества и единый маршрут проекта.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section solution" data-surface="light">
+      <div class="container">
+        <div class="section-heading reveal">
+          <h2 class="gold-gradient">Наши преимущества</h2>
+          <p><span class="logo-font">FABRIQ</span> ведет проект как системный процесс, а не как разовую продажу.</p>
+        </div>
+        <div class="feature-grid three">
+          <article class="feature-card light reveal"><img class="card-photo" src="assets/img/factories/zov-real-2.webp" alt="ZOV" /><h3>Фабричное качество</h3><p>ZOV и GEOSIDEAL с официальными каталогами.</p></article>
+          <article class="feature-card light reveal"><img class="card-photo" src="assets/img/styles/zov/veskona-real.webp" alt="Контроль" /><h3>Контроль этапов</h3><p>Материалы, сроки и монтаж синхронизированы в едином процессе.</p></article>
+          <article class="feature-card light reveal"><img class="card-photo" src="assets/img/styles/geosideal/kapri-real.jpg" alt="Гарантия" /><h3>Гарантия 3 года</h3><p>Официальные обязательства и сопровождение после установки.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section factories" data-surface="dark">
+      <div class="container">
+        <div class="section-heading reveal">
+          <h2>Производство</h2>
+          <p>Выберите фабрику и переходите к стилям. Подробный процесс — на странице производства.</p>
+        </div>
+        <div class="factory-grid">
+          <article class="factory-card reveal"><img src="assets/img/factories/zov-real-1.webp" alt="ZOV" /><h3>ZOV</h3><p>Технологичные и функциональные кухни.</p><a class="btn btn-outline" href="factories/zov.html">Смотреть стили ZOV</a></article>
+          <article class="factory-card reveal"><img src="assets/img/factories/geosideal-real-1.jpg" alt="GEOSIDEAL" /><h3>GEOSIDEAL</h3><p>Премиальные фасады и выразительная отделка.</p><a class="btn btn-outline" href="factories/geosideal.html">Смотреть стили GEOSIDEAL</a></article>
+        </div>
+        <a class="btn btn-primary reveal" href="production.html" style="margin-top:18px;">Подробнее о производстве</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><img class="footer-logo" src="assets/img/logo.png" alt="FABRIQ" /><p>Премиальная мебель в Казахстане</p></div>
+      <div><p><strong>Телефон:</strong> +77077432888</p><p><strong>WhatsApp:</strong> +77077432888</p></div>
+      <div><p><strong>Адрес:</strong> Акмешит 19/1</p><p><strong>График:</strong> Все дни: 10:00 - 20:00</p><p>© FABRIQ <span id="year"></span></p></div>
+    </div>
+  </footer>
+
+  <script src="assets/js/script.js" defer></script>
+</body>
+</html>

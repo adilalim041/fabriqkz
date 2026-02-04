@@ -1,0 +1,40 @@
+﻿[
+  {
+    "slug": "zov",
+    "name": "ZOV",
+    "country": "Беларусь",
+    "description": "Технологичные кухни с акцентом на эргономику и серийное качество.",
+    "catalogUrl": "https://zovofficial.com/kuhni-ru/",
+    "styles": [
+      "veskona",
+      "orlean",
+      "pemont",
+      "laura",
+      "nois",
+      "norvud",
+      "salviya",
+      "merinos",
+      "safari",
+      "miro"
+    ]
+  },
+  {
+    "slug": "geosideal",
+    "name": "GEOSIDEAL",
+    "country": "Беларусь",
+    "description": "Премиальные решения с выразительной отделкой и архитектурной подачей.",
+    "catalogUrl": "https://geosideal.ru/kuhni/",
+    "styles": [
+      "arli",
+      "astra",
+      "damiana",
+      "jasper",
+      "kalipso",
+      "kapri",
+      "kotra",
+      "lianga",
+      "marinara",
+      "natali"
+    ]
+  }
+]

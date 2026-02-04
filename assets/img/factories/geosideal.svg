@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Фабрика ГеосИдеал">
+  <defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#111"/><stop offset="1" stop-color="#252525"/></linearGradient></defs>
+  <rect width="480" height="320" fill="url(#b)"/>
+  <rect x="30" y="46" width="420" height="228" rx="14" fill="#f8f8f8"/>
+  <rect x="52" y="70" width="382" height="20" rx="6" fill="#ddd"/>
+  <rect x="52" y="104" width="120" height="150" rx="8" fill="#ececec"/>
+  <rect x="186" y="104" width="248" height="72" rx="8" fill="#e0e0e0"/>
+  <rect x="186" y="182" width="248" height="72" rx="8" fill="#d4d4d4"/>
+  <rect x="340" y="204" width="68" height="10" rx="5" fill="#d7ab3a"/>
+</svg>

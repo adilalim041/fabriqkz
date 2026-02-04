@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Фабрика ЗОВ">
+  <defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#2c2c2c"/></linearGradient></defs>
+  <rect width="480" height="320" fill="url(#a)"/>
+  <rect x="36" y="52" width="408" height="216" rx="14" fill="#f6f6f6"/>
+  <rect x="52" y="72" width="376" height="34" rx="8" fill="#d7d7d7"/>
+  <rect x="52" y="118" width="178" height="130" rx="8" fill="#ececec"/>
+  <rect x="250" y="118" width="178" height="130" rx="8" fill="#e2e2e2"/>
+  <circle cx="398" cy="236" r="12" fill="#d7ab3a"/>
+</svg>
