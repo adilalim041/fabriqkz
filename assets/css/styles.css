@@ -461,9 +461,11 @@ img {
   margin-bottom: 12px;
 }
 
-.tracker-head strong {
-  color: var(--yellow-soft);
+
+.tracker-head span {
+  color: #ffffff;
 }
+
 
 .tracker-progress {
   height: 10px;
@@ -494,12 +496,15 @@ img {
 }
 
 .tracker-widget li.done {
-  border-color: rgba(215, 171, 58, 0.6);
+  border-color: transparent;
+  color: #ffffff;
+  background: linear-gradient(135deg, #0f7a43 0%, #1fa15f 45%, #5edb99 100%);
 }
 
 .tracker-widget li.active {
-  color: #fff;
-  background: rgba(215, 171, 58, 0.16);
+  color: #111111;
+  border-color: transparent;
+  background: linear-gradient(120deg, #f0d27a 0%, #c9961e 45%, #f7e7b2 100%);
 }
 
 .rating-overview {
@@ -1255,3 +1260,4 @@ body {
     transform: translateY(-5px);
   }
 }
+
